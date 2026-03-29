@@ -315,9 +315,8 @@ Contributions welcome! Add your learning notes, projects, and resources.
 
 ## 📧 Connect
 
-- GitHub: [YourUsername]
-- Twitter: [Your Twitter]
-- Discord: [Community Links]
+- GitHub: https://github.com/SZ03-C
+- LinkedIn: https://www.linkedin.com/in/shaguftha-zabeen-a41371379/
 
 ---
 
