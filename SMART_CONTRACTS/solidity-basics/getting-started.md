@@ -275,6 +275,5 @@ describe("SimpleStorage", function () {
 - [CryptoZombies](https://cryptozombies.io/)
 - [OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/)
 
----
 
 [← Back to Solidity Basics](../README.md) | [Next: Data Types →](data-types.md)
